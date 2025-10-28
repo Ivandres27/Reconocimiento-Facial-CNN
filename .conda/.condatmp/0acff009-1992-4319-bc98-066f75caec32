@@ -1,0 +1,13 @@
+prefix=//wsl.localhost/Ubuntu/home/ivana/ml_projects/.conda/Library
+exec_prefix=//wsl.localhost/Ubuntu/home/ivana/ml_projects/.conda/Library
+libdir=//wsl.localhost/Ubuntu/home/ivana/ml_projects/.conda/Library/lib
+sharedlibdir=//wsl.localhost/Ubuntu/home/ivana/ml_projects/.conda/Library/lib
+includedir=//wsl.localhost/Ubuntu/home/ivana/ml_projects/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
