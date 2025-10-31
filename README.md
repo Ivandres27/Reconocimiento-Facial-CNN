@@ -30,7 +30,7 @@ Proyecto de **tesis de grado** que implementa una **Red Neuronal Convolucional (
 
 ## Estructura del Repositorio
 Reconocimiento-Facial-CNN/:
-Red_Convolucional_Caras_Tesis.ipynb  ← Notebook principal (código + resultados)
-README.md                            ← Este archivo
-LICENSE                              ← Licencia MIT
-.gitignore                           ← Evita subir archivos pesados
+Red_Convolucional_Caras_Tesis.ipynb--Notebook principal (código + resultados)
+README.md--Este archivo;
+LICENSE--Licencia MIT
+.gitignore--Evita subir archivos pesados
