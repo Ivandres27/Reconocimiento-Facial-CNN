@@ -12,7 +12,7 @@ a partir de imágenes faciales en escala de grises bajo distintas condiciones de
 > *Ejemplos de errores de clasificación. Las imágenes con iluminación extrema
 > o ángulos difíciles representan los casos más desafiantes para el modelo.*
 
-(assets/errores_clasificacion.png)
+![Errores de clasificación](assets/error_clasificacion.png)
 
 ---
 
